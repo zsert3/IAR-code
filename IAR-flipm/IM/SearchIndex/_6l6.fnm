@@ -1,4 +1,4 @@
-þÿÿÿ„###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###SearchFilterIdsTitleLanguageVersion###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentSCL CodeCommentDatatypeAddress###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreAuthorFamilyUser-defined IDInstance DBAcknowledgementModelIdEmailAddressAcknowledgedText
+þÿÿÿ’###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###SearchFilterIdsTitleLanguageVersion###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentSCL CodeCommentDatatypeAddress###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreAuthorFamilyUser-defined IDInstance DBAcknowledgementModelIdEmailAddressAcknowledgedText
 ComingText	GoingTextAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
 ServerName
 PortNumberWindowsDomain	CycleUnit	CycleTimeNumber	ShortName
@@ -10,4 +10,6 @@ DataFormatFormatPatternUnitPropertyNameTagValueForPropertyTagPageUITyp
 FilterTextGridlineColorLayerSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderFontTableHeaderForeColorViewTypeAcknowledgementBitAddress
 AlarmClassPlcAcknowledgementBitAddressTriggerBitAddress	AlarmText
 TriggerTagInfoTextAcknowledgementTag
-AppearanceTableGridlineColor
+AppearanceTableGridlineColorCaptionProcessValueColorEndStyle	FillStyleLineEndShapeStyle
+StartStyleStyleAdaptPicture
+AutoSizingPictureTransparentColorAuthorizationJobEvent
